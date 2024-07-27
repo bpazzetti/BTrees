@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTrees", "BTrees\BTrees.csproj", "{BD350D5B-0D10-4038-9193-BDA89F079B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD350D5B-0D10-4038-9193-BDA89F079B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD350D5B-0D10-4038-9193-BDA89F079B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD350D5B-0D10-4038-9193-BDA89F079B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD350D5B-0D10-4038-9193-BDA89F079B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC819BD-559E-476A-B28A-75CD8E66DB78}
+	EndGlobalSection
+EndGlobal
